@@ -1,0 +1,40 @@
+[
+    { "date": "2025-01-01", "name": "New year", "type": "optional" },
+    { "date": "2025-01-14", "name": "Makara Sankranti/Pongal", "type": "optional" },
+    { "date": "2025-01-16", "name": "Thiruvalluvar Day", "type": "optional" },
+
+    { "date": "2025-02-26", "name": "Sivarathri", "type": "optional" },
+
+    { "date": "2025-03-13", "name": "Holi", "type": "optional" },
+    { "date": "2025-03-31", "name": "Idul Fitr (Ramzan)", "type": "normal" },
+
+    { "date": "2025-04-14", "name": "Vishu / Tamil new year", "type": "optional" },
+    { "date": "2025-04-18", "name": "Good Friday", "type": "optional" },
+
+    { "date": "2025-05-01", "name": "May Day", "type": "normal" },
+    { "date": "2025-05-05", "name": "Buddha Purnima", "type": "optional" },
+
+    { "date": "2025-06-06", "name": "Id-ul-Ad’ha (Bakrid)", "type": "optional" },
+    { "date": "2025-06-26", "name": "Muharram", "type": "optional" },
+
+    { "date": "2025-07-24", "name": "Karkadaka Vavu", "type": "optional" },
+
+    { "date": "2025-08-08", "name": "Raksha Bandhan", "type": "optional" },
+    { "date": "2025-08-15", "name": "Independence Day", "type": "normal" },
+    { "date": "2025-08-26", "name": "Ganesh Chaturthi", "type": "normal" },
+    { "date": "2025-08-28", "name": "Ayyankali Jayanthi", "type": "optional" },
+
+    { "date": "2025-09-04", "name": "First Onam", "type": "optional" },
+    { "date": "2025-09-05", "name": "Thiruvonam/Milad-i-Sherif", "type": "optional" },
+    { "date": "2025-09-30", "name": "Maha Ashtami", "type": "optional" },
+
+    { "date": "2025-10-01", "name": "Dussehra (Vijayadeshami)/ Mahanavami", "type": "normal" },
+    { "date": "2025-10-02", "name": "Gandhi Jayanthi", "type": "normal" },
+    { "date": "2025-10-20", "name": "Deepavali", "type": "normal" },
+    { "date": "2025-10-21", "name": "Bali Pratipada", "type": "optional" },
+
+    { "date": "2025-11-05", "name": "Karthika Purnima", "type": "optional" },
+
+    { "date": "2025-12-25", "name": "Christmas", "type": "normal" }
+  ]
+  
